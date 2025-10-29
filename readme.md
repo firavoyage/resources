@@ -1,5 +1,5 @@
 some resources.
 
-not willing to use git lfs.
+put here for not willing to use git lfs.
 
-put them here.
+d is for deprecated
